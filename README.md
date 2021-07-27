@@ -12,3 +12,5 @@ O notebook **Carregar um classificador treinado.ipynb** carrega a base de dados 
 O arquivo **app-tcc.py** foi desenvolvido no editor de texto *Visual Studio Code* e com o auxílio da biblioteca *streamlit* foi possível criar um aplicativo web para exibir a solução de Machine Learning para o problema proposto.
 
 O notebook **Retorno Carteira.ipynb** trata da análise de uma carteira de investimento com a seleção de algumas empresas classificadas como "boa".
+
+**Observação:** Todos os arquivos gerados e utilizados no projeto também estão disponíveis para consulta nas pastas correspondentes deste repositório.
