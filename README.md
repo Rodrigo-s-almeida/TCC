@@ -3,7 +3,7 @@ TCC Puc Minas - Agosto de 2021
 
 APLICAÇÃO DE MODELOS DE MACHINE LEARNING PARA ANÁLISE DE DEMONSTRAÇÕES CONTÁBEIS E CLASSIFICAÇÃO DE EMPRESAS PARA INVESTIMENTO NO LONGO PRAZO
 
-# Instruções:
+### Instruções:
 
 O arquivo **TCC_PucMinas_VersaoFinal.ipynb** contém o notebook desenvolvido no TCC, que pode ser executado no Jupyter Notebook do Anaconda. O notebook carrega os dados coletados no sítio da Bolsa de Valores Mobiliários (CVM) faz os tratamentos e a devida exploração dos dados, executa os algoritmos de aprendizado de máquina, apresenta a análise dos resultados, e, no final, gera a base de dados e salva o modelo em disco para posterior utilização.
 
